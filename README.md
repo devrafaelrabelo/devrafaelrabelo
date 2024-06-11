@@ -6,15 +6,15 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrafaelrabelo" alt="devrafaelrabelo" /></a> 
-</p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devrafaelrabelo&show_icons=true&locale=en" alt="devrafaelrabelo" /></p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrafaelrabelo" alt="devrafaelrabelo" /></a> 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrafaelrabelo&" alt="devrafaelrabelo" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devrafaelrabelo&show_icons=true&locale=en" alt="devrafaelrabelo" />
+
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrafaelrabelo&" alt="devrafaelrabelo" />
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrafaelrabelo&show_icons=true&locale=en&layout=compact" alt="devrafaelrabelo" />
