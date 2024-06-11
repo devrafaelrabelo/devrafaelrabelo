@@ -1,30 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Rabelo</h1>
 <h3 align="center">A passionate backend developer from brazil</h3>
 
-
-<img src="https://komarev.com/ghpvc/?username=devrafaelrabelo&label=Profile%20views&color=0e75b6&style=flat" alt="devrafaelrabelo" />
-
-
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrafaelrabelo" alt="devrafaelrabelo" /></a> 
-
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devrafaelrabelo&show_icons=true&locale=en" alt="devrafaelrabelo" />
-
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrafaelrabelo&" alt="devrafaelrabelo" />
-
-
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrafaelrabelo&show_icons=true&locale=en&layout=compact" alt="devrafaelrabelo" /></div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ##### https://devrafaelrabelo.github.io/Agencia_Design/
 ##### https://devrafaelrabelo.github.io/Wild_Beast/
 ##### https://devrafaelrabelo.github.io/Imobiliaria/
@@ -43,3 +19,21 @@
 ##### https://devrafaelrabelo.github.io/Fabrica_Bike/
 ##### https://devrafaelrabelo.github.io/Fabrica-Bicicleta_01/
 ##### https://devrafaelrabelo.github.io/Fabrica_Bicicleta_2/
+
+
+<img src="https://komarev.com/ghpvc/?username=devrafaelrabelo&label=Profile%20views&color=0e75b6&style=flat" alt="devrafaelrabelo" />
+
+
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devrafaelrabelo" alt="devrafaelrabelo" /></a> 
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devrafaelrabelo&show_icons=true&locale=en" alt="devrafaelrabelo" />
+
+
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrafaelrabelo&" alt="devrafaelrabelo" />
+
+
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrafaelrabelo&show_icons=true&locale=en&layout=compact" alt="devrafaelrabelo" /></div>
