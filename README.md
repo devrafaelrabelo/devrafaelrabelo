@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Rabelo</h1>
-<h3 align="center">A passionate backend developer from brazil</h3>
+<h3 align="center">A passionate Full Stack developer from brazil</h3>
 
 ##### https://devrafaelrabelo.github.io/Agencia_Design/
 ##### https://devrafaelrabelo.github.io/Wild_Beast/
