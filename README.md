@@ -63,7 +63,9 @@
 [![Blog](https://img.shields.io/website?label=Agencia%20Architecture%2001&style=for-the-badge&url=https://devrafaelrabelo.github.io/Agencia_Architecture_01/)](https://devrafaelrabelo.github.io/Agencia_Architecture_01/)
 [![Blog](https://img.shields.io/website?label=Agencia%20Architecture%2002&style=for-the-badge&url=https://devrafaelrabelo.github.io/Agencia_Architecture_02/)](https://devrafaelrabelo.github.io/Agencia_Architecture_02/)
 [![Blog](https://img.shields.io/website?label=Fabrica%20Bicicleta%2001&style=for-the-badge&url=https://devrafaelrabelo.github.io/Fabrica-Bicicleta_01/)](https://devrafaelrabelo.github.io/Fabrica-Bicicleta_01/)
-[![Blog](https://img.shields.io/website?label=Ecoprem&style=for-the-badge&url=https://devrafaelrabelo.github.io/EcopremWebsite/)](https://devrafaelrabelo.github.io/EcopremWebsite/)
+[![Blog](https://img.shields.io/website?label=Ecoprem&style=for-the-badge&url=https://devrafaelrabelo.github.io/EcopremWebsite/)](https://devrafaelrabelo.github.io/EcopremWebsite/) 
+[![Blog](https://img.shields.io/website?label=Animais%20Fantasticos&style=for-the-badge&url=https://devrafaelrabelo.github.io/AnimaisFantastico/)](https://devrafaelrabelo.github.io/AnimaisFantastico/) 
+
 
 ### HTML | CSS | JS | REACT
 
