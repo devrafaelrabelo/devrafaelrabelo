@@ -1,5 +1,7 @@
 <h1 align="left">Olá! 👋, Eu sou o Rafael Rabelo</h1>
-<h3 align="left">Apaixonado por tecnologia, e em busca da primeira oportunidade na area de desenvolvimento de software</h3>
+<h3 align="left">Apaixonado por tecnologia e em busca da primeira oportunidade na área de desenvolvimento de software, estou motivado a aplicar e expandir meus conhecimentos para contribuir de forma significativa em projetos desafiadores.</h3>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-rafaelrabelo/)
 
 <img src="https://komarev.com/ghpvc/?username=devrafaelrabelo&label=Profile%20views&color=0e75b6&style=flat" alt="devrafaelrabelo" />
 
