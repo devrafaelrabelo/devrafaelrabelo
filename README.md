@@ -64,7 +64,7 @@
 [![Blog](https://img.shields.io/website?label=Fabrica%20Bicicleta%2001&style=for-the-badge&url=https://devrafaelrabelo.github.io/Fabrica-Bicicleta_01/)](https://devrafaelrabelo.github.io/Fabrica-Bicicleta_01/)
 [![Blog](https://img.shields.io/website?label=Ecoprem&style=for-the-badge&url=https://devrafaelrabelo.github.io/EcopremWebsite/)](https://devrafaelrabelo.github.io/EcopremWebsite/) 
 [![Blog](https://img.shields.io/website?label=Animais%20Fantasticos&style=for-the-badge&url=https://devrafaelrabelo.github.io/AnimaisFantastico/)](https://devrafaelrabelo.github.io/AnimaisFantastico/) 
-[![Blog](https://img.shields.io/website?label=Sistema%20Restaurante%2002&style=for-the-badge&url=https://devrafaelrabelo.github.io/Restaurante_01/)](https://devrafaelrabelo.github.io/Restaurante_01/)
+[![Blog](https://img.shields.io/website?label=Sistema%20Restaurante%2001&style=for-the-badge&url=https://devrafaelrabelo.github.io/Restaurante_01/)](https://devrafaelrabelo.github.io/Restaurante_01/)
 
 
 ### HTML | CSS | JS | REACT
