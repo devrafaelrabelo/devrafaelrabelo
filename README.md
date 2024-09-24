@@ -43,6 +43,20 @@
 
 ## Projetos (PORTFOLIO)
 
+### HTML | CSS | JS | REACT
+
+[![Blog](https://img.shields.io/website?label=Cardapio&style=for-the-badge&url=https://devrafaelrabelo.github.io/Cardapio/)](https://devrafaelrabelo.github.io/Cardapio/)
+
+### HTML | CSS | JS
+
+[![Blog](https://img.shields.io/website?label=Agencia%20Architecture%2001&style=for-the-badge&url=https://devrafaelrabelo.github.io/Agencia_Architecture_01/)](https://devrafaelrabelo.github.io/Agencia_Architecture_01/)
+[![Blog](https://img.shields.io/website?label=Agencia%20Architecture%2002&style=for-the-badge&url=https://devrafaelrabelo.github.io/Agencia_Architecture_02/)](https://devrafaelrabelo.github.io/Agencia_Architecture_02/)
+[![Blog](https://img.shields.io/website?label=Fabrica%20Bicicleta%2001&style=for-the-badge&url=https://devrafaelrabelo.github.io/Fabrica-Bicicleta_01/)](https://devrafaelrabelo.github.io/Fabrica-Bicicleta_01/)
+[![Blog](https://img.shields.io/website?label=Ecoprem&style=for-the-badge&url=https://devrafaelrabelo.github.io/EcopremWebsite/)](https://devrafaelrabelo.github.io/EcopremWebsite/) 
+[![Blog](https://img.shields.io/website?label=Animais%20Fantasticos&style=for-the-badge&url=https://devrafaelrabelo.github.io/AnimaisFantastico/)](https://devrafaelrabelo.github.io/AnimaisFantastico/) 
+[![Blog](https://img.shields.io/website?label=Sistema%20Restaurante%2001&style=for-the-badge&url=https://devrafaelrabelo.github.io/Restaurante_01/)](https://devrafaelrabelo.github.io/Restaurante_01/)
+[![Blog](https://img.shields.io/website?label=Jogo%20da%20Memoria&style=for-the-badge&url=https://devrafaelrabelo.github.io/Jogo-da-Memoria/)](https://devrafaelrabelo.github.io/Jogo-da-Memoria/)
+
 ### HTML | CSS 
 
 [![Blog](https://img.shields.io/website?label=Apresentação&style=for-the-badge&url=https://devrafaelrabelo.github.io/Apresentacao/)](https://devrafaelrabelo.github.io/Apresentacao/)
@@ -60,18 +74,3 @@
 [![Blog](https://img.shields.io/website?label=Barbearia%2002&style=for-the-badge&url=https://devrafaelrabelo.github.io/Barbearia_02/)](https://devrafaelrabelo.github.io/Barbearia_02/)
 [![Blog](https://img.shields.io/website?label=Fabrica%20Bike&style=for-the-badge&url=https://devrafaelrabelo.github.io/Fabrica_Bike/)](https://devrafaelrabelo.github.io/Fabrica_Bike/)
 [![Blog](https://img.shields.io/website?label=Fabrica%20Bicicleta%2002&style=for-the-badge&url=https://devrafaelrabelo.github.io/Fabrica_Bicicleta_2/)](https://devrafaelrabelo.github.io/Fabrica_Bicicleta_2/)
-
-### HTML | CSS | JS
-
-[![Blog](https://img.shields.io/website?label=Agencia%20Architecture%2001&style=for-the-badge&url=https://devrafaelrabelo.github.io/Agencia_Architecture_01/)](https://devrafaelrabelo.github.io/Agencia_Architecture_01/)
-[![Blog](https://img.shields.io/website?label=Agencia%20Architecture%2002&style=for-the-badge&url=https://devrafaelrabelo.github.io/Agencia_Architecture_02/)](https://devrafaelrabelo.github.io/Agencia_Architecture_02/)
-[![Blog](https://img.shields.io/website?label=Fabrica%20Bicicleta%2001&style=for-the-badge&url=https://devrafaelrabelo.github.io/Fabrica-Bicicleta_01/)](https://devrafaelrabelo.github.io/Fabrica-Bicicleta_01/)
-[![Blog](https://img.shields.io/website?label=Ecoprem&style=for-the-badge&url=https://devrafaelrabelo.github.io/EcopremWebsite/)](https://devrafaelrabelo.github.io/EcopremWebsite/) 
-[![Blog](https://img.shields.io/website?label=Animais%20Fantasticos&style=for-the-badge&url=https://devrafaelrabelo.github.io/AnimaisFantastico/)](https://devrafaelrabelo.github.io/AnimaisFantastico/) 
-[![Blog](https://img.shields.io/website?label=Sistema%20Restaurante%2001&style=for-the-badge&url=https://devrafaelrabelo.github.io/Restaurante_01/)](https://devrafaelrabelo.github.io/Restaurante_01/)
-[![Blog](https://img.shields.io/website?label=Jogo%20da%20Memoria&style=for-the-badge&url=https://devrafaelrabelo.github.io/Jogo-da-Memoria/)](https://devrafaelrabelo.github.io/Jogo-da-Memoria/)
-
-
-### HTML | CSS | JS | REACT
-
-[![Blog](https://img.shields.io/website?label=Cardapio&style=for-the-badge&url=https://devrafaelrabelo.github.io/Cardapio/)](https://devrafaelrabelo.github.io/Cardapio/)
